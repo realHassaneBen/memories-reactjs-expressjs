@@ -25,6 +25,8 @@
     "react-google-login": "^5.2.2",
     "react-router-dom": "^6.3.0"
   },
+  "repository": "https://github.com/realHassaneBen/memories-reactjs-expressjs.git",
+  "author": "Hassane Bendaoud <40140987+realHassaneBen@users.noreply.github.com>",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
